@@ -535,11 +535,6 @@ blank<-ggplot()+ geom_blank()+
 # Done
 
 
-p <- ggplot2::ggplotGrob(alt)
-p <- gtable::gtable_add_grob(p, grid::rectGrob(gp=grid::gpar(fill="white",
-                                                             col = NA)),
-                             t = 1, b = 3, l = 1, r = max(p[[2]]$r), z = 0)
-
   ggdraw() +
   draw_plot(blank) +
  # draw_image(altricial.img,x=0.37,y=0.10,width=0.8,height=.85)+
@@ -554,5 +549,6 @@ ggsave(filename='Figure_1_07_31_2025.pdf',width=18,height=11,unit='cm',dpi=600,d
 # Save the plot
 
 # Script concludes 
+
 
 
