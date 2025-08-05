@@ -4,6 +4,8 @@ the analyses in Orkney et al. 2025.
 
 Growing up and fledgling is an exhausting challenge for chicks, which may restrict the variety of adult forms birds can evolve.  Many bird species assist their highly dependent chicks, providing food, warmth and shelter, and we hypothesised that this might alleviate developmental restrictions in these lineages in contrast to species with less supportive parenting. We compared adult limb bone length and flight-style descriptions across a representative sample of species. We fit evolutionary models, showing that parental support is associated with faster evolutionary divergences between the wing and leg skeleton and the exploration of a wider variety of flight-style combinations.
 
+This release contains the requisite data and scripts to conduct an evolutionary analysis to determine whether Altricial (high parental investment) development is a critical determinant of bird skeletal evolution and results in a material change in the evolvability of 
+bird lineages in contrast to Precocial (low parental investment) strategies.
 
 In all analyses we employ the all-birds super tree recently published by 
 McTavish et al., 2025. (https://doi.org/10.1073/pnas.2409658122)
