@@ -31,6 +31,8 @@ compiled as an extension of (Taylor, G.K. and Thomas, A.L., 2014. Evolutionary b
 and originally published in Orkney et al. 2021
 (https://doi.org/10.1038/s41559-021-01509-w) 
 
+Scripts:
+
 Figure_1_04_08_2025.R 
 This script produces the analysis for Figure 1. 
 Body mass dependent scaling of limb bone lengths is removed from limb bone length measurements,
